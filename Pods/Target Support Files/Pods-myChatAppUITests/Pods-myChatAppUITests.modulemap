@@ -1,0 +1,6 @@
+framework module Pods_myChatAppUITests {
+  umbrella header "Pods-myChatAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
